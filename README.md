@@ -7,8 +7,6 @@ Author: Zinan Xing
 
 Essay (PDF): [riemann-hypothesis-exposition.pdf](riemann-hypothesis-exposition.pdf)
 
-Problem page: [MathDB #315854](https://mathdb.com/p/315854/riemann-hypothesis)
-
 ## Video exposition
 
 [![Watch the video: The Riemann Hypothesis, a claimed Lean proof, explained](https://img.youtube.com/vi/c1KQztA9Hzg/maxresdefault.jpg)](https://www.youtube.com/watch?v=c1KQztA9Hzg)
