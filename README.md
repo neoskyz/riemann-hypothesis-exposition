@@ -1,4 +1,4 @@
-# Riemann Hypothesis Exposition
+# Exposition of Anthropic's Riemann Hypothesis proof
 
 A reader's guide to the claimed Lean proof of the Riemann hypothesis (November 20, 2026), with a check of its formal statement.
 Written for readers who know calculus but not analytic number theory.
