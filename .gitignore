@@ -1,0 +1,8 @@
+CLAUDE.md
+.DS_Store
+# private notes: never in a public repo
+docs/
+AGENTS.md
+notes/
+*.notes.md
+tracking/
